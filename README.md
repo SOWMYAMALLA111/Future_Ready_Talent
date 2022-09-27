@@ -1,2 +1,2 @@
 # Future_Ready_Talent
-This project is built for Future Ready Talent Virtual Internship Program.
+This project is built for Future Ready Talent Microsoft Virtual Internship.
